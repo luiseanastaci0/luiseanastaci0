@@ -7,6 +7,7 @@ I am a **Business Data Scientist** focused on bridging the gap between complex d
 ### 🛠️ Tech Stack & Tools
 
 - **Languages:** Python (Pandas, NumPy, Scikit-Learn), SQL
+- **Big Data Infrastructure:** Hadoop Ecosystem
 - **Data Visualization & BI:** Power BI, Tableau, Dataviz Principles
 - **Data Engineering:** Data Extraction, Cleaning, and Process Automation
 - **Methodologies:** Data Storytelling, Predictive Modeling, Business Analytics

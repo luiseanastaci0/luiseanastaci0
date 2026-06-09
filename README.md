@@ -1,20 +1,31 @@
-### Olá, tudo bom? Meu nome é Mariane Luíse👋
+# Hi there, I'm Luíse Anastácio! 👋 (she/they)
 
-🧑🏻‍💻 Sou **Analista de Dados**, alguém com muita curiosidade e com uma paixão por transformar informação em conhecimento útil.
+I am a **Business Data Scientist** focused on bridging the gap between complex data and strategic decision-making. My goal is to translate raw data into actionable insights and interactive visual solutions that drive business growth.
 
-✍️ Amo **escrita criativa**
+---
 
+### 🛠️ Tech Stack & Tools
 
-💻 Atualmente com foco em: 
+- **Languages:** Python (Pandas, NumPy, Scikit-Learn), SQL
+- **Data Visualization & BI:** Power BI, Dataviz Principles
+- **Data Engineering:** Data Extraction, Cleaning, and Process Automation
+- **Methodologies:** Data Storytelling, Predictive Modeling, Business Analytics
 
-- 🐍**Python**;
-- **SQL**;
-- 📊**Power BI**;
-- **ETL**.
+---
 
-  ##
+### 📊 Featured Projects
 
-  #### Você também me encontra em:
-  <a href="https://www.linkedin.com/in/mluiseanastacio/">
-  <img width="80" height="60" img src= "https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
+*In the making... Stay tuned for upcoming analytical solutions!* 🚀
+
+<!-- Quando seus projetos ficarem prontos, você pode listá-los assim:
+- [Project Name](Link do Repositório): Brief description of the business problem solved and the tools used (e.g., Python + Power BI).
+-->
+
+---
+
+### 📫 Connect with me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luiseanastaci0/)
+
+---
+*“Turning data into insights, and insights into business value.”*

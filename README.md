@@ -1,32 +1,56 @@
-# Hi there, I'm Luíse Anastácio! 👋 (she/they)
+# Hi there, I'm Luíse! (she/they) 👋
 
-I am a **Business Data Scientist** focused on bridging the gap between complex data and strategic decision-making. My goal is to translate raw data into actionable insights and interactive visual solutions that drive business growth.
+### 📊 Data Analyst & Analytics Specialist
 
----
+I am a Data Analyst with a strong background in **Computer Science** and specialized expertise in **Data Science**. I bridge the gap between technical data engineering and strategic business decision-making. 
 
-### 🛠️ Tech Stack & Tools
-
-- **Languages:** Python (Pandas, NumPy, Scikit-Learn), SQL
-- **Big Data Infrastructure:** Hadoop Ecosystem
-- **Data Visualization & BI:** Power BI, Tableau, Dataviz Principles
-- **Data Engineering:** Data Extraction, Cleaning, and Process Automation
-- **Methodologies:** Data Storytelling, Predictive Modeling, Business Analytics
+I focus on transforming large-scale, complex datasets into actionable business insights, building clean analytics pipelines, and creating intuitive visualizations.
 
 ---
 
-### 📊 Featured Projects
+### 🎓 Education & Background
 
-*In the making... Stay tuned for upcoming analytical solutions!* 🚀
-
-<!-- Quando seus projetos ficarem prontos, você pode listá-los assim:
-- [Project Name](Link do Repositório): Brief description of the business problem solved and the tools used (e.g., Python + Power BI).
--->
+* **Postgraduate Degree in Data Science**
+* **Bachelor of Science (B.S.) in Computer Science**
 
 ---
 
-### 📫 Connect with me
+### 🛠️ Tech Stack & Skills
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luiseanastaci0/)
+* **Languages & Analytics:** SQL, Python (Pandas, NumPy)
+* **Big Data & Cloud Platforms:** Databricks, PySpark
+* **Data Visualization & BI:** Power BI, Tableau, Matplotlib, Seaborn
+* **Engineering & Workflows:** Data Cleaning & Transformation (ETL/ELT), Data Modeling, Git/GitHub, PostgreSQL
 
 ---
-*“Turning data into insights, and insights into business value.”*
+
+### 🔍 Core Expertise
+
+* **Exploratory Data Analysis (EDA):** Uncovering hidden patterns, anomalies, and key performance drivers within complex environments.
+* **Data Wrangling & Processing:** Transforming raw, unstructured data into clean, structured, and reliable data models.
+* **Business Intelligence & Storytelling:** Translating technical findings into clear, impactful visual dashboards for executive decision-making.
+
+---
+
+### 📌 Featured Projects
+
+#### 📂 [Databricks Big Data Analytics]
+> *Scalable data transformation and exploratory analysis using PySpark and SQL in a managed cloud environment.*
+* **Tech:** Databricks, PySpark, SQL, Data Visualization
+* **Outcome:** Streamlined data processing workflows and generated key performance insights.
+
+#### 📂 [Exploratory Data Analysis & Business Intelligence]
+> *End-to-end data analysis pipeline focused on solving real-world business problems and identifying strategic trends.*
+* **Tech:** Python (Pandas), SQL, Business Intelligence
+* **Outcome:** Delivered actionable recommendations backed by data-driven evidence.
+
+---
+
+### 📫 Connect & Contact
+
+* **LinkedIn:** https://www.linkedin.com/in/luiseanastaci0/
+* **Portfolio:** 
+* **Email:** 
+
+---
+*"Transforming raw data into clear, actionable business strategies."*

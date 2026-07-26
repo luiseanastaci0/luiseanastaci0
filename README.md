@@ -50,7 +50,7 @@ I focus on transforming large-scale, complex datasets into actionable business i
 
 * **LinkedIn:** https://www.linkedin.com/in/luiseanastaci0/
 * **Portfolio:** 
-* **Email:** 
+* **Email:** luiseanastacio.dataanalyst@gmail.com
 
 ---
 *"Transforming raw data into clear, actionable business strategies."*

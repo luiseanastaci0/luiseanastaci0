@@ -32,19 +32,6 @@ I focus on transforming large-scale, complex datasets into actionable business i
 
 ---
 
-### 📌 Featured Projects
-
-#### 📂 [Databricks Big Data Analytics]
-> *Scalable data transformation and exploratory analysis using PySpark and SQL in a managed cloud environment.*
-* **Tech:** Databricks, PySpark, SQL, Data Visualization
-* **Outcome:** Streamlined data processing workflows and generated key performance insights.
-
-#### 📂 [Exploratory Data Analysis & Business Intelligence]
-> *End-to-end data analysis pipeline focused on solving real-world business problems and identifying strategic trends.*
-* **Tech:** Python (Pandas), SQL, Business Intelligence
-* **Outcome:** Delivered actionable recommendations backed by data-driven evidence.
-
----
 
 ### 📫 Connect & Contact
 
